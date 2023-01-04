@@ -1,5 +1,15 @@
-
-[{
+[
+    {
+      "intent":"UniqueNameGoesHere",
+      "examples": [
+        "Training phrase examples go here",
+        "..."
+      ],
+      "metadata": [
+        "The response to the question goes here"
+      ]
+    },
+    {
       "intent":"BankedTickets",
       "examples": [
         "I’d like to know how many banked tickets we have",
@@ -106,4 +116,5 @@
       "metadata": [
         "Mona Miranda arrived in Paris January 9 and departs January 12 and Elissa Friedman arrived January 10 and departs January 17. Do you need more information about their trips?"
       ]
-    }]
+    }
+  ]
