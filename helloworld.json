@@ -1,0 +1,120 @@
+
+    {
+      "intent":"UniqueNameGoesHere",
+      "examples": [
+        "Training phrase examples go here",
+        "..."
+      ],
+      "metadata": [
+        "The response to the question goes here"
+      ]
+    },
+    {
+      "intent":"BankedTickets",
+      "examples": [
+        "I’d like to know how many banked tickets we have",
+        "Number of tickets",
+        "How many tickets are there",
+        "Banked tickets"
+      ],
+      "metadata": [
+        "Sure, let me pull up your information. Your company has 45 banked tickets with a value of $24,700 on 8 different airlines. Would you like more information about your banked tickets?"
+      ]
+    },
+    {
+      "intent":"TravelersWithBankedTickets",
+      "examples": [
+        "Which travelers have the most banked tickets",
+        "Who has the most banked tickets",
+        "Who has the tickets",
+        "Which travelers are they"
+      ],
+      "metadata": [
+        "Adam Malcolm and Barti Somaasundaram have the most banked tickets. Adam has 15 and Barti has 12."
+      ]
+    },
+    {
+      "intent":"EnterpriseRentalMarketShare",
+      "examples": [
+        "What is my market share for Enterprise Rental Car? Am I hitting my market share goals?",
+        "Enterprise Rental Car",
+        "Market Share Goals",
+        "What is my market share",
+        "Am I hitting my market share goals with Enterprise Rental Car"
+      ],
+      "metadata": [
+        "Your market share on Enterprise Rental Car is 42 percent. Your market share goal is 40 percent, so your company is hitting its target."
+      ]
+    },
+    {
+      "intent":"MostPopularHotelsBooked",
+      "examples": [
+        "I would like to learn more about my hotel savings opportunities. What are my most popular hotels booked?",
+        "What are my most popular hotels booked",
+        "Which hotels have I booked the most?"
+      ],
+      "metadata": [
+        "You have had 280 bookings with Marriott chain hotels and 175 with Hilton chain hotel properties. The Beltway Marriott is your top booked hotel, with 63 room nights booked over 38 different reservations"
+      ]
+    },
+    {
+      "intent":"HotelDiscount",
+      "examples": [
+        "When should I ask a hotel or a chain for a discount",
+        "How do I get discounts on hotels",
+        "Which hotels are offering discounts",
+        "Is there a way to get a discount on a hotel"
+      ],
+      "metadata": [
+        "Our recommendation is to be prepared by gathering information for several months. I can ask my non-Digital Humans to contact your most frequently booked hotels and negotiate discounts and savings on your behalf. Each hotel is different, so we can recommend which hotels you should talk to first."
+      ]
+    },
+    {
+      "intent":"ParisFrance",
+      "examples": [
+        "I just noticed a news release about a disturbance in Paris France today. Does my company have any travelers in Paris right now",
+        "Is there something going on in Paris right now",
+        "Is there something going on in France right now",
+        "Do I have any travelers in France",
+		"Paris disturbance"
+      ],
+      "metadata": [
+        "here are two employees in Paris right now. Mona Miranda and Elissa Friedman are both in Paris today, based on their travel records. Would you like to contact them? I can provide their email addresses or phone numbers."
+      ]
+    },
+    {
+      "intent":"TravelerContactInfo",
+      "examples": [
+        "Can I get their travel info",
+        "Can I get their travelers information",
+        "Please give me their info",
+        "I need their info ASAP"
+      ],
+      "metadata": [
+        "Ok. Mona Miranda’s phone number is 212-555-1212 and Elissa Friedman’s number is 305-555-1212. Do you need more information about their trips?"
+      ]
+    },
+    {
+      "intent":"Close",
+      "examples": [
+        "Thank you - I do not have any more questions",
+        "No more questions today",
+        "No more questions Digital Person",
+        "Do I have any travelers in France"
+      ],
+      "metadata": [
+        "here are two employees in Paris right now. Mona Miranda and Elissa Friedman are both in Paris today, based on their travel records. Would you like to contact them? I can provide their email addresses or phone numbers."
+      ]
+    },
+    {
+      "intent":"TravelerDepartureArrivalDates",
+      "examples": [
+        "Yes please. When did they arrive and when do they leave Paris",
+        "Can I get their arrival and departure dates please",
+        "Please tell me when they arrived and when they will depart"
+      ],
+      "metadata": [
+        "Mona Miranda arrived in Paris January 9 and departs January 12 and Elissa Friedman arrived January 10 and departs January 17. Do you need more information about their trips?"
+      ]
+    }
+  ]
